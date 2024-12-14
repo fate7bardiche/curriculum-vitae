@@ -8,7 +8,7 @@
 |生年月日|1997年|
 |性別|男|
 |居住地|東京|
-|所属|[合同会社NOSTAL THE i-RIS](https://www.nostalthei-ris.com/) 代表社員|
+|所属|[株式会社NOSTAL THE i-RIS](https://www.nostalthei-ris.com/) 代表取締役|
 
 ## スキル
 ### 言語
