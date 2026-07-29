@@ -23,7 +23,6 @@
 
 ### フレームワーク
 - Ruby on Rails
-
 - Next.js
 - React
 - NestJS
