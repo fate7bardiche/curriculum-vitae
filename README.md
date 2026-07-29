@@ -23,8 +23,11 @@
 
 ### フレームワーク
 - Ruby on Rails
-- React
+
 - Next.js
+- React
+- NestJS
+- Prisma
 
 ### テスト
 - Jest
