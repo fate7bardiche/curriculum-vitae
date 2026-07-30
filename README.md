@@ -94,7 +94,7 @@ Python, Keras, TensorFlow, Ubuntuなどを用いて、吃音症の分類がで�
 - 時間計算量やメモリの使用量に配慮した実装。O($n^2$)以上はできるだけ避ける。indexでのアクセスや辞書型を利用するなどして、対応できる課題にはO($1$)で済むように実装
 - SOLID原則やクリーンアーキテクチャに則った開発
 - 外部API(Maps JavaScript APIなど)を使用した実装、およびドキュメントで仕様の調査 
-- client-presetを用いてFragment MaskingでFragmentしたColocation。フラグメントとコンポーネントをカプセル化し。これによりtypenameとidの取得忘れを防ぎ、キャッシュが正しく機能するようにする
+- client-presetを用いてFragment MaskingしたFragmentしたColocation。フラグメントとコンポーネントをカプセル化し。これによりtypenameとidの取得忘れを防ぎ、キャッシュが正しく機能するように担保する
 - 状態管理にApolloのキャッシュを活用することで、アプリ全体の読み込み速度を短くする設計方針
 - GraphQLのID設計をrelayパターンで実施
 - Conventional Commitsに則ったコミットの命名規則
