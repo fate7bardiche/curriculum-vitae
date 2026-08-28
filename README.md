@@ -12,21 +12,21 @@
 
 ## スキル
 ### 言語
-- Ruby
-- TypeScript
-- JavaScript
-- GraphQL
+- Ruby（3年）
+- TypeScript（5年）
+- JavaScript（5年）
+- GraphQL（3年）
 - HTML
 - Haml
 - CSS(SCSS)
 - bash
 
 ### フレームワーク
-- Ruby on Rails
-- Next.js
-- React
-- NestJS
-- Prisma
+- Ruby on Rails（3年）
+- Next.js（4年）
+- React（5年）
+- NestJS（1年）
+- Prisma（1年）
 
 ### テスト
 - Jest
